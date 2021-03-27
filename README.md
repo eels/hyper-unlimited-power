@@ -1,4 +1,4 @@
-# 🎉 hyper-unlimited-power
+# :tada: hyper-unlimited-power
 
 Achy-breaky, shakey-shakey and confetti.
 Another configurable [Hyper](https://hyper.is/]) power-mode plugin.
