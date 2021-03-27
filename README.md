@@ -3,9 +3,9 @@
 Achy-breaky, shakey-shakey and confetti.
 Another configurable [Hyper](https://hyper.is/]) power-mode plugin.
 
-<div style="text-align: center">
-  ![hero](https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif">
+</p>
 
 ## Installation
 
@@ -27,11 +27,11 @@ Add any of the following to your `~/.hyper.js` config object.
 
 ### Enable Rainbow Particle Colors
 
-<div style="text-align: center">
-  ![rainbow](https://user-images.githubusercontent.com/9451626/111384544-8d18c700-86a1-11eb-8f89-cc3c8fd1ad57.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384544-8d18c700-86a1-11eb-8f89-cc3c8fd1ad57.gif">
+</p>
 
-Type: `bool`
+Type: `bool`\
 Default value: `true`
 
 ```javascript
@@ -48,11 +48,11 @@ module.exports = {
 
 ### Enable Combo Mode
 
-<div style="text-align: center">
-  ![combo](https://user-images.githubusercontent.com/9451626/111672467-e7d13080-8811-11eb-8653-d1f9d01f95b8.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111672467-e7d13080-8811-11eb-8653-d1f9d01f95b8.gif">
+</p>
 
-Type: `bool`
+Type: `bool`\
 Default value: `true`
 
 ```javascript
@@ -69,11 +69,11 @@ module.exports = {
 
 ### Enable Permanent Screen Shake
 
-<div style="text-align: center">
-  ![shake](https://user-images.githubusercontent.com/9451626/111384472-74101600-86a1-11eb-895a-05f868b052c7.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384472-74101600-86a1-11eb-895a-05f868b052c7.gif">
+</p>
 
-Type: `bool`
+Type: `bool`\
 Default value: `false`
 
 ```javascript
@@ -90,11 +90,11 @@ module.exports = {
 
 ### Static Particle Colors
 
-<div style="text-align: center">
-  ![static](https://user-images.githubusercontent.com/9451626/111384576-96a22f00-86a1-11eb-9a5e-83f304a2f9dc.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384576-96a22f00-86a1-11eb-9a5e-83f304a2f9dc.gif">
+</p>
 
-Type: `"false"|string|string[]`
+Type: `"false"|string|string[]`\
 Default value: `false`
 
 ```javascript
@@ -112,11 +112,11 @@ module.exports = {
 
 ### Maximum Number of Particles
 
-<div style="text-align: center">
-  ![count](https://user-images.githubusercontent.com/9451626/111384710-be919280-86a1-11eb-9e5c-13a46396393b.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384710-be919280-86a1-11eb-9e5c-13a46396393b.gif">
+</p>
 
-Type: `number`
+Type: `number`\
 Default value: `20`
 
 ```javascript
@@ -133,11 +133,11 @@ module.exports = {
 
 ### Particle Velocity Range
 
-<div style="text-align: center">
-  ![range](https://user-images.githubusercontent.com/9451626/111384762-c7826400-86a1-11eb-92ec-01ad603798f3.gif)
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384762-c7826400-86a1-11eb-92ec-01ad603798f3.gif">
+</p>
 
-Type: `object`
+Type: `object`\
 Default value: `{ x: [-1, 1], y: [-2, -0.5] }`
 
 ```javascript
@@ -157,34 +157,34 @@ module.exports = {
 
 ## Secret Config Options
 
-### `comboActivationThreshold`
+#### `comboActivationThreshold`
 
-Type: `number`
+Type: `number`\
 Default value: `15`
 
-### `comboTimeUntilDecay`
+#### `comboTimeUntilDecay`
 
-Type: `number`
+Type: `number`\
 Default value: `2000`
 
-### `particleAlphaFadeout`
+#### `particleAlphaFadeout`
 
-Type: `number`
+Type: `number`\
 Default value: `0.92`
 
-### `particleAlphaMinThreshold`
+#### `particleAlphaMinThreshold`
 
-Type: `number`
+Type: `number`\
 Default value: `0.1`
 
-### `particleGravity`
+#### `particleGravity`
 
-Type: `number`
+Type: `number`\
 Default value: `0.075`
 
-### `shakeIntensity`
+#### `shakeIntensity`
 
-Type: `number`
+Type: `number`\
 Default value: `1`
 
 ## License
