@@ -1,5 +1,5 @@
 {
-  "name": "hyper-unlimited-power",
+  "name": "@hwll/hyper-unlimited-power",
   "version": "1.0.0",
   "description": "Extended power mode particle effects for Hyper",
   "main": "index.js",
@@ -9,7 +9,8 @@
     "i": "yarn install --ignore-engines",
     "lint": "yarn run lint:js:fix",
     "lint:js": "./node_modules/.bin/eslint ./*.js --config .eslintrc.js",
-    "lint:js:fix": "./node_modules/.bin/eslint ./*.js --config .eslintrc.js --fix"
+    "lint:js:fix": "./node_modules/.bin/eslint ./*.js --config .eslintrc.js --fix",
+    "test": "echo \"No test specified\""
   },
   "files": [
     "index.js"
