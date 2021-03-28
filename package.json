@@ -1,6 +1,6 @@
 {
   "name": "hyper-unlimited-power",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extended particle effects power mode for Hyper",
   "main": "index.js",
   "license": "MIT",
