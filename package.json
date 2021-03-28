@@ -1,7 +1,7 @@
 {
-  "name": "@hwll/hyper-unlimited-power",
+  "name": "hyper-unlimited-power",
   "version": "1.0.0",
-  "description": "Extended power mode particle effects for Hyper",
+  "description": "Extended particle effects power mode for Hyper",
   "main": "index.js",
   "license": "MIT",
   "author": "Liam Howell <liam@liam.codes>",
@@ -43,8 +43,5 @@
     "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
     "eslint-plugin-sort-keys-fix": "^1.1.0",
     "eslint-plugin-standard": "^4.0.0"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
