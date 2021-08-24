@@ -1,10 +1,21 @@
-# hyper-unlimited-power
-
-Achy-breaky, shakey-shakey. A configurable [Hyper](https://hyper.is/]) power-mode plugin.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif">
-</p>
+<div align="center">
+  <h1>
+    <br />
+    <div>:tada:</div>
+    <br />
+    <div>hyper-unlimited-power</div>
+    <br />
+  </h1>
+  <br />
+  <div>A configurable <a href="https://hyper.is/">hyper</a> power-mode plugin</div>
+  <br />
+  <pre>hyper i <a href="https://www.npmjs.com/package/hyper-unlimited-power">hyper-unlimited-power</a></pre>
+  <br />
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif" />
+  </p>
+  <h1></h1>
+</div>
 
 ## Installation
 
