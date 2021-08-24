@@ -11,9 +11,7 @@
   <br />
   <pre>hyper i <a href="https://www.npmjs.com/package/hyper-unlimited-power">hyper-unlimited-power</a></pre>
   <br />
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif" />
-  </p>
+  <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif" />
   <h1></h1>
 </div>
 
@@ -38,7 +36,7 @@ Add any of the following to your `~/.hyper.js` config object.
 ### Enable Rainbow Particle Colors
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384544-8d18c700-86a1-11eb-8f89-cc3c8fd1ad57.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111384544-8d18c700-86a1-11eb-8f89-cc3c8fd1ad57.gif" />
 </p>
 
 Type: `bool`\
@@ -59,7 +57,7 @@ module.exports = {
 ### Enable Combo Mode
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111672467-e7d13080-8811-11eb-8653-d1f9d01f95b8.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111672467-e7d13080-8811-11eb-8653-d1f9d01f95b8.gif" />
 </p>
 
 Type: `bool`\
@@ -80,7 +78,7 @@ module.exports = {
 ### Enable Permanent Screen Shake
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384472-74101600-86a1-11eb-895a-05f868b052c7.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111384472-74101600-86a1-11eb-895a-05f868b052c7.gif" />
 </p>
 
 Type: `bool`\
@@ -101,7 +99,7 @@ module.exports = {
 ### Static Particle Colors
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384576-96a22f00-86a1-11eb-9a5e-83f304a2f9dc.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111384576-96a22f00-86a1-11eb-9a5e-83f304a2f9dc.gif" />
 </p>
 
 Type: `"false"|string|string[]`\
@@ -123,7 +121,7 @@ module.exports = {
 ### Maximum Number of Particles
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384710-be919280-86a1-11eb-9e5c-13a46396393b.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111384710-be919280-86a1-11eb-9e5c-13a46396393b.gif" />
 </p>
 
 Type: `number`\
@@ -144,7 +142,7 @@ module.exports = {
 ### Particle Velocity Range
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/9451626/111384762-c7826400-86a1-11eb-92ec-01ad603798f3.gif">
+  <img src="https://user-images.githubusercontent.com/9451626/111384762-c7826400-86a1-11eb-92ec-01ad603798f3.gif" />
 </p>
 
 Type: `object`\
