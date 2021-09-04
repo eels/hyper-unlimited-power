@@ -23,7 +23,8 @@ Thumbs.db
 # Lock files
 # ----------------------------------------
 
-*.lock
+package-lock.json
+yarn.lock
 
 # Dependencies
 # ----------------------------------------

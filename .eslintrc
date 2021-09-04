@@ -1,0 +1,28 @@
+{
+  "extends": ["eslint:recommended", "plugin:react/recommended", "standard", "semistandard"],
+
+  "plugins": ["react", "prettier", "sort-destructure-keys", "sort-keys-fix"],
+
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
+
+  "rules": {
+    "comma-dangle": ["error", "always-multiline"],
+    "newline-before-return": ["error"],
+    "newline-after-var": ["error", "always"],
+    "prettier/prettier": "error",
+    "sort-destructure-keys/sort-destructure-keys": ["error", { "caseSensitive": true }],
+    "sort-keys-fix/sort-keys-fix": "error",
+    "space-before-function-paren": [
+      "error",
+      {
+        "anonymous": "always",
+        "asyncArrow": "always",
+        "named": "never"
+      }
+    ]
+  }
+}

@@ -11,9 +11,12 @@
   <br />
   <pre>hyper i <a href="https://www.npmjs.com/package/hyper-unlimited-power">hyper-unlimited-power</a></pre>
   <br />
-  <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif" />
   <h1></h1>
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9451626/111384154-14196f80-86a1-11eb-80a6-e45583f61917.gif" />
+</p>
 
 ## Installation
 
@@ -202,5 +205,5 @@ MIT - see the [LICENSE.md](https://github.com/eels/hyper-unlimited-power/blob/ma
 ## Acknowledgments & Credits
 
 * Inspired by the original [hyperpower](https://github.com/vercel/hyperpower) plugin
-* Which in turn was based on [power-mode](https://atom.io/packages/power-mode) and [RagePower](https://github.com/itszero/rage-power) 
+* Which in turn was based on [power-mode](https://atom.io/packages/power-mode) and [RagePower](https://github.com/itszero/rage-power)
 * With additional fixes from [MajorBreakfast](https://github.com/MajorBreakfast) in ([#75](https://github.com/vercel/hyperpower/pull/75))
