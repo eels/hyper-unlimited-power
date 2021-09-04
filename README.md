@@ -10,7 +10,6 @@
   <div>A configurable <a href="https://hyper.is/">hyper</a> power-mode plugin</div>
   <br />
   <pre>hyper i <a href="https://www.npmjs.com/package/hyper-unlimited-power">hyper-unlimited-power</a></pre>
-  <br />
   <h1></h1>
 </div>
 
