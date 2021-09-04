@@ -9,6 +9,10 @@
   <br />
   <div>A configurable <a href="https://hyper.is/">hyper</a> power-mode plugin</div>
   <br />
+  <a href="https://www.npmjs.com/package/hyper-unlimited-power"><img src="https://img.shields.io/npm/v/hyper-unlimited-power?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/hyper-unlimited-power"><img src="https://img.shields.io/npm/dm/hyper-unlimited-power?style=flat-square" /></a>
+  <a href="https://hyper.is/"><img src="https://img.shields.io/badge/plugin-%E2%9A%A1%EF%B8%8Fhyper-blue?style=flat-square" /></a>
+  <br /><br />
   <pre>hyper i <a href="https://www.npmjs.com/package/hyper-unlimited-power">hyper-unlimited-power</a></pre>
   <h1></h1>
 </div>
