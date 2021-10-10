@@ -26,6 +26,11 @@ Thumbs.db
 package-lock.json
 yarn.lock
 
+# Caches
+# ----------------------------------------
+
+.eslintcache
+
 # Dependencies
 # ----------------------------------------
 

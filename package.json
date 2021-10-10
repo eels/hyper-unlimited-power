@@ -12,7 +12,7 @@
   "scripts": {
     "format": "prettier './src/**/*.js' --check",
     "format:fix": "yarn format --write",
-    "lint": "eslint './src/**/*.js'",
+    "lint": "eslint './src/**/*.js' --cache",
     "lint:fix": "yarn lint --fix",
     "prepare": "husky install",
     "test": "echo \"No test specified\""
@@ -51,6 +51,7 @@
     "eslint-plugin-sort-imports-es6-autofix": "^0.6.0",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
     "husky": "^7.0.2",
+    "lint-staged": "^11.2.2",
     "prettier": "^2.3.2"
   }
 }
