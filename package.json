@@ -40,6 +40,8 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
     "auto-changelog": "^2.3.0",
     "eslint": "^8.2.0",
     "eslint-config-semistandard": "^16.0.0",
