@@ -10,6 +10,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
+    "changelog": "auto-changelog -b 10 -l 10 -t keepachangelog --hide-credit --sort-commits subject",
     "format": "prettier './src/**/*.js' --check",
     "format:fix": "yarn format --write",
     "lint": "eslint './src/**/*.js' --cache",
@@ -39,6 +40,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
+    "auto-changelog": "^2.3.0",
     "eslint": "^8.2.0",
     "eslint-config-semistandard": "^16.0.0",
     "eslint-config-standard": "^16.0.3",
