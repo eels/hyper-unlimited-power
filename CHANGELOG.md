@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/eels/hyper-unlimited-power/compare/v1.0.2...v1.0.3) - 2021-12-21
+
+### Commits
+
+- Add badges to README.md [`6b3a3a5`](https://github.com/eels/hyper-unlimited-power/commit/6b3a3a54f9896970abd7421e8557ab3cd75726de)
+- Add husky + setup [`8da3160`](https://github.com/eels/hyper-unlimited-power/commit/8da316064b5d82dc18ab65ba3c2a087580862764)
+- Add lint-staged and add explicit extensions to some dot files [`e2fad5e`](https://github.com/eels/hyper-unlimited-power/commit/e2fad5e3f0d59e50d55cedec0833171187645c25)
+- build: add dependabot.yml [`d659514`](https://github.com/eels/hyper-unlimited-power/commit/d6595149e5b17602a28ac544a0a055efd82c17c5)
+- build: add github action workflows [`d1501d9`](https://github.com/eels/hyper-unlimited-power/commit/d1501d96e80e7084b5d71dc4bb485dfefa49ee76)
+- build(deps): bump actions/setup-node from 1 to 2.4.1 [`be16981`](https://github.com/eels/hyper-unlimited-power/commit/be16981e10b39d76056cc001803a9246ea3b643d)
+- build(deps): bump actions/setup-node from 2.4.1 to 2.5.0 [`ab6722c`](https://github.com/eels/hyper-unlimited-power/commit/ab6722cc890808dd7d00401e58e1fc7849718222)
+- chore: add .prettierignore [`3049e6e`](https://github.com/eels/hyper-unlimited-power/commit/3049e6e256bdcc0fa082f8662960ac84ec1fc469)
+- chore: add vscode directory with sensible defaults [`a3ecc66`](https://github.com/eels/hyper-unlimited-power/commit/a3ecc6650dba71deeb7bbb87951d4985ece4039c)
+- chore: update dependency versions [`b489bce`](https://github.com/eels/hyper-unlimited-power/commit/b489bce52b37505d931cf003281cc88d52322e80)
+
 ## [v1.0.2](https://github.com/eels/hyper-unlimited-power/compare/v1.0.1...v1.0.2) - 2021-03-28
 
 ### Commits
