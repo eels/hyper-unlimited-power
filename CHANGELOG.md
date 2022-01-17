@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/eels/hyper-unlimited-power/compare/v1.0.3...v1.0.4) - 2022-01-17
+
+### Commits
+
+- build(deps): bump actions/setup-node from 2.5.0 to 2.5.1 [`ad571c9`](https://github.com/eels/hyper-unlimited-power/commit/ad571c9c5e7b19dcd63af93e9dafabc7429f255a)
+- chore: add bug issue template [`0ce94ad`](https://github.com/eels/hyper-unlimited-power/commit/0ce94ad532ba844f28d444118ab93cc3b59e15cc)
+- chore: add code of conduct [`9717cde`](https://github.com/eels/hyper-unlimited-power/commit/9717cde04b23d73297574da177d851cc2032a777)
+- chore: add contributing.md [`f5e773d`](https://github.com/eels/hyper-unlimited-power/commit/f5e773d77ba365cfcee923358700f911c64003a6)
+- chore: add pull request template [`990b587`](https://github.com/eels/hyper-unlimited-power/commit/990b587d185de93c82ebf5a27eb6e97319f341e6)
+- chore(deps-dev): bump @commitlint/cli from 15.0.0 to 16.0.1 [`96f451f`](https://github.com/eels/hyper-unlimited-power/commit/96f451fef0d4d3ef1d88d6c7abfa9e58da94b52b)
+- chore(deps-dev): bump @commitlint/config-conventional [`ba953f7`](https://github.com/eels/hyper-unlimited-power/commit/ba953f749b8b8545a88b36915cd06d24bff4291a)
+- ci: add dependabot auto merge workflow [`7f72017`](https://github.com/eels/hyper-unlimited-power/commit/7f720179da96cb4aa2fe228b3a5b1b0b63b3d508)
+- docs: update v1.0.3 changelog [`61d4e58`](https://github.com/eels/hyper-unlimited-power/commit/61d4e5878084fcb69dbe5ddb495a7dbae2f07321)
+- fix: ensure next particle state is returned in draw frame [`a58c068`](https://github.com/eels/hyper-unlimited-power/commit/a58c06823f94a3ca57628e465eaecb0b549e30ee)
+
 ## [v1.0.3](https://github.com/eels/hyper-unlimited-power/compare/v1.0.2...v1.0.3) - 2021-12-21
 
 ### Commits
