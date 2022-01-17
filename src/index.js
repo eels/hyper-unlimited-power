@@ -1,12 +1,11 @@
 const Color = require('color');
 const PropTypes = require('prop-types');
 const colorNameToHex = require('convert-css-color-name-to-hex');
-const electron = require('electron');
 const throttle = require('lodash.throttle');
 
 exports.decorateTerm = (Term, { React }) => {
   const HYPER_UNLIMITED_CONFIG = {};
-  const config = electron.remote.app.config.getConfig();
+  const config = require('@electron/remote').app.config.getConfig();
   const configEntries = Object.entries(config.hyperUnlimitedPower || {});
 
   for (const [key, value] of configEntries) {

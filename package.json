@@ -1,6 +1,5 @@
 {
   "name": "hyper-unlimited-power",
-  "type": "module",
   "version": "1.0.3",
   "description": "Extended particle effects power mode for Hyper",
   "author": "Liam Howell <liam@liam.codes>",
@@ -34,6 +33,7 @@
     "powermode"
   ],
   "dependencies": {
+    "@electron/remote": "2.0.1",
     "color": "^4.0.1",
     "convert-css-color-name-to-hex": "0.1.1",
     "lodash.throttle": "4.1.1",
