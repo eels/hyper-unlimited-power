@@ -178,6 +178,8 @@ exports.decorateTerm = (Term, { React }) => {
         particles = [].concat(particles);
         particles = particles.slice(Math.max(particles.length - maxParticleCount, 0));
         particles = particles.filter((prt) => prt.alpha > particleAlphaMinThreshold);
+
+        return particles;
       };
 
       this.particles = getNextParticleState(this.particles);
