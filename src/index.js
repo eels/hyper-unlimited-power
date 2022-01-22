@@ -48,6 +48,26 @@ exports.decorateTerm = (Term, { React }) => {
       };
     }
 
+    get initialConfigState() {
+      return {
+        comboActivationThreshold: 15,
+        comboTimeUntilDecay: 2000,
+        isComboEnabled: true,
+        isEarthquakeEnabled: false,
+        isRainbowEnabled: true,
+        maxParticleCount: 20,
+        particleAlphaFadeout: 0.96,
+        particleAlphaMinThreshold: 0.1,
+        particleGravity: 0.075,
+        particleVelocityRange: {
+          x: [-1, 1],
+          y: [-2.5, -1.5],
+        },
+        shakeIntensity: 1,
+        staticParticleColors: false,
+      };
+    }
+
     handleOnCursorMove(cursorFrame) {
       const { onCursorMove } = this.props;
       const { cursorMovementsMade, isComboActive } = this.state;
@@ -104,25 +124,7 @@ exports.decorateTerm = (Term, { React }) => {
     }
 
     setConfigurationOptions() {
-      const initialConfigState = {
-        comboActivationThreshold: 15,
-        comboTimeUntilDecay: 2000,
-        isComboEnabled: true,
-        isEarthquakeEnabled: false,
-        isRainbowEnabled: true,
-        maxParticleCount: 20,
-        particleAlphaFadeout: 0.96,
-        particleAlphaMinThreshold: 0.1,
-        particleGravity: 0.075,
-        particleVelocityRange: {
-          x: [-1, 1],
-          y: [-2.5, -1.5],
-        },
-        shakeIntensity: 1,
-        staticParticleColors: false,
-      };
-
-      return Object.assign(initialConfigState, HYPER_UNLIMITED_CONFIG);
+      return Object.assign(this.initialConfigState, HYPER_UNLIMITED_CONFIG);
     }
 
     colorToHex(name) {
