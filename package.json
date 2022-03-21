@@ -33,7 +33,7 @@
     "powermode"
   ],
   "dependencies": {
-    "@electron/remote": "2.0.7",
+    "@electron/remote": "2.0.8",
     "color": "^4.0.1",
     "convert-css-color-name-to-hex": "0.1.1",
     "lodash.throttle": "4.1.1",
